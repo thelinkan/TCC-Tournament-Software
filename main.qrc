@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/TccTournament/MainButton.qml</file>
+        <file>qml/TccTournament/MainMenu.qml</file>
+    </qresource>
+</RCC>
